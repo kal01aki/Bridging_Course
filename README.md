@@ -9,6 +9,6 @@ Transistor is a semi-conductor that regulates or controls current or voltage flo
 **Moore's Law**
 Moore's Law is the idea that we can expect the speed and capability of our computers two increase every couple of years. Moore's Law states that the number of transistors on a microchip doubles every two years. Another tenet of Moore's law says that the growth of microprocessors is exponential. In 1965 Gordon E.Moore the co-founder of intel, made this observation that become known as Moore's law
 
-Lambda Calculus
+**Lambda Calculus**
 
 Lambda Calculus is a mathimatical model for understanding computation. Lambda Calculus consists three rules named; Variable, Abstraction and Application.
